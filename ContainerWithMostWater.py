@@ -54,7 +54,7 @@ class Solution:
         
         return max_water
 
-height = [1,8,6,2,5,4,8,3,9]
+height = [1,8,6,2,5,4,8,3,9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ]
 
 obj = Solution()
 print(obj.maxArea(height))

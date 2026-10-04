@@ -1,0 +1,19 @@
+# 
+
+class Solution:
+    def longestCommonPrefix(self, strs):
+        prefix = strs[0]
+
+        for i in range(1, len(strs)):
+            while not strs[1].startswith(prefix):
+                prefix = prefix[:-1]
+
+                if prefix == "":
+                    return ""
+
+        return prefix
+
+strs = ["flower","flow","flight"]
+
+obj = Solution()
+print(obj.longestCommonPrefix(strs))

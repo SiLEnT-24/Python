@@ -20,7 +20,23 @@ Python is a multipurpose language use in all type of Application design.
 Python is a platform independent language we can run python program  in any OS like Windows, Linux, mac and ubuntu.
 Python is also a portable language.
 Variable declaration in python.
-Python Virtual Machine (PVM).
+Python Virtual Machine (PVM): PVM is a software which convert bit code into machine code. PVM is machine dependent but python is platform independent language.
+
+            converted by python                       Converts
+Source code ---------------------> Byte Code ---> PVM --------> Machine code -----> Run
+
+Python support different type backend software like sql server, oracle, mysql, sqlite3.
+
+Python supports all the advance features like sms sending, email sending, payment gateway, login with other accounts etc.
+
+Python variables are dynamic in nature on the basis of value its data type is manage internally.
+
+Python language architecture : 
+                             Procedure oriented language
+                             funtional oriented language
+                             object oriented language
+
+python follows mix approuch : It is interpreter or compiler based language.
 
 
 

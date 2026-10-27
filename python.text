@@ -1,0 +1,26 @@
+What is software?
+
+software is a block of code or instruction that tell a computer how to perform specific task
+
+types  :
+1. System software : It is manage and control hardware component of computer system. EX- Operating system, driver and utility software like antivirus are ex of software system.
+2. Application software : It is design to help user to perform specific task such as creating document , edit image , manage accounts etc.
+
+Python is a first technology which use in both type of software system as well as Application software.
+
+In ubuntu Operating system python setup is available by default that means python also use in designning system software tools.
+
+1. Console Application
+2. Windows Application
+3. Web Application
+4. MObile Application
+5. Scientific & Numeric Application
+
+Python is a multipurpose language use in all type of Application design.
+Python is a platform independent language we can run python program  in any OS like Windows, Linux, mac and ubuntu.
+Python is also a portable language.
+Variable declaration in python.
+Python Virtual Machine (PVM).
+
+
+

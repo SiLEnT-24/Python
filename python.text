@@ -77,6 +77,7 @@ Exponentiation
 
 Assignment
           to assign or store the value
+          += -= /= %= **= //=
 
 Type function : It is a library function of python it returns data types of given reference.
 syntax:

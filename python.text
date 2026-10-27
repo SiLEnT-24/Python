@@ -38,5 +38,12 @@ Python language architecture :
 
 python follows mix approuch : It is interpreter or compiler based language.
 
+Variables in python
+                   Python variables are also called containers.
+                   It is a reserve memory block which is capable to hold some data.
+                   Variable start with alphbets or underscore sign 
+                   variable cannot be save as reversed words or keywords
+                   No white spaces is allowed in variable declaration
+                   Variable name can be combination of alphbets, numbers and symbols(_)
 
 

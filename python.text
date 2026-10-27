@@ -88,3 +88,8 @@ Input function : It is a predefine function in python it is used to take input f
                  syntax:
                         return string = input("statement")
 
+Typen Casting: It is a mechanism by which we can convert one datatype to another datatype
+               for the type Casting python provides functions
+               1. int(): string to int or float to int
+               2. float(): int to float
+               3. str(): string to int/float

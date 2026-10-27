@@ -78,3 +78,13 @@ Exponentiation
 Assignment
           to assign or store the value
 
+Type function : It is a library function of python it returns data types of given reference.
+syntax:
+      Datatype = type(reference_name)
+
+Input function : It is a predefine function in python it is used to take input from user at run time(dynamically).
+                 Input function return type is always in string format.
+                 
+                 syntax:
+                        return string = input("statement")
+

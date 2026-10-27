@@ -46,4 +46,35 @@ Variables in python
                    No white spaces is allowed in variable declaration
                    Variable name can be combination of alphbets, numbers and symbols(_)
 
+Data Types in Python
+                   1. numbers
+                            int  <class:int>
+                            float <class:float>
+                            complex <class: complex>
+
+                    2. String Types
+                                    Str <class:str>
+
+                    3. Boolean type
+                                   bool <class:bool>
+
+                    4. Sequence Types
+                                     list <class: list>
+                                     tuple <class: tuple>
+                                     set <class>: set>
+                                     dictionary <class: dict>
+
+                    5. None
+                            None <class: nonetype>
+
+Operators : It is a symbol use for any claculation and passing conditions in a program         
+
+Arithemetic Operators
+                      + - * / %
+
+Exponentiation 
+                  ** , // --> floor
+
+Assignment
+          to assign or store the value
 

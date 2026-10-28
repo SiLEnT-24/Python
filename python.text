@@ -110,3 +110,11 @@ Membership Operators
                     1. in : return true when data is not exists
                     2. not in : returns true when data is not exists
 
+Id function: It is a predefine funcctions of python it return unique memory address of given reference
+             Id valeue must be unique during life cycle of reference
+             syntax
+                  return address = id(reference_name)
+
+
+
+

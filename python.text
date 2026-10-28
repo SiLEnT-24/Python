@@ -107,6 +107,6 @@ Relational or Comparison Operators
 
 Membership Operators
                     This operator is used to check the given data is available in given collection or not.
-                    1. in
-                    2. not in
+                    1. in : return true when data is not exists
+                    2. not in : returns true when data is not exists
 

@@ -94,3 +94,19 @@ Typen Casting: It is a mechanism by which we can convert one datatype to another
                1. int(): string to int or float to int
                2. float(): int to float
                3. str(): string to int/float
+
+average of three integer no.
+total and percentage 5 sample path
+
+Relational or Comparison Operators
+                                     < > <= >= == !=
+
+                                     and : minimum 2 condition must be given and all the conditions must be true. 
+                                     or : minimum 2 condition must be given and from all the conditions only one must be true.
+                                     not : minimum 1 condition must be given and it set true to false and false to true.
+
+Membership Operators
+                    This operator is used to check the given data is available in given collection or not.
+                    1. in
+                    2. not in
+

@@ -120,5 +120,24 @@ Identity operator
                 1. is :  if reference has same address it returns true otherwise false
                 2. is not : if reference has different address it address returns true otherwise false
 
+Bitwise operator
+               & -> bitwise and operator
+               | -> bitwise or operator
+               ^ -> bitwise xor operator
+               << -> bitwise left operator
+               >> -> bitwise right operator
+               ~ -> bitwise not
+
+Assignment operator + Bitwise
+                            &=   
+                            |=
+                            ^=
+                            <<=
+                            >>=
+
+
+
+ 
+
 
 

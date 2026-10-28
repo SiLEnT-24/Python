@@ -1,4 +1,4 @@
-# bitwise operators
+# assignment + bitwise operators
 
 a=6
 b=5

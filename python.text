@@ -135,9 +135,24 @@ Assignment operator + Bitwise
                             <<=
                             >>=
 
+Control structure 
+                  control structure show the execution flow of your program.
+                  there are three types control structure
+
+                  1. sequential : when the code is executed line by line without condition and without repetition.
+                  2. conditional : when the code is executed dependents on given condition it is called conditional control structure.
+                                   a. if statement
+                                       syntax
+                                           if(condition):
+                                                logic or statement
+
+                                    b. 
+                                                
+                  3. repetitive ot loop : when the code is executed again and again on the basis of given condition.
 
 
  
+
 
 
 

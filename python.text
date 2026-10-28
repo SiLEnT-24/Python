@@ -115,6 +115,10 @@ Id function: It is a predefine funcctions of python it return unique memory addr
              syntax
                   return address = id(reference_name)
 
+Identity operator
+                This operator is used to check given reference has same or different Identity(address)
+                1. is :  if reference has same address it returns true otherwise false
+                2. is not : if reference has different address it address returns true otherwise false
 
 
 

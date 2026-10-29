@@ -179,3 +179,13 @@ Loop or Repetitive control structure : when we want to perform any task again an
                                                              # statement
                                                              step value/increament value
 
+for in loop
+  syntax
+      1. for reference in collection
+          # statement
+      2. for reference in range (start, stop-1, step)
+          #staatement
+        
+        start default value is 0
+        stop -1
+        step is default incremented by 1

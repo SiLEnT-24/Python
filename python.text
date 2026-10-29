@@ -157,8 +157,8 @@ WAP to find middle among 3 numbers
 WAP to reverse 3 digit numbers
 WAP to calculate profit and loss with cost price and selling price
 
-conditional control structure
-ladder:
+Conditional control structure
+Ladder:
        syntax
            if(condition):        // write one time
                    #logic on staatement
@@ -170,4 +170,12 @@ ladder:
                 #logic on statement
 
  
+Loop or Repetitive control structure : when we want to perform any task again and again on the basis of given condition then use loop control structure.
+                                      Types:
+                                           while loop
+                                               syntax: 
+                                                    start value / initialization
+                                                    while(condition):
+                                                             # statement
+                                                             step value/increament value
 

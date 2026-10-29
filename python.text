@@ -157,5 +157,17 @@ WAP to find middle among 3 numbers
 WAP to reverse 3 digit numbers
 WAP to calculate profit and loss with cost price and selling price
 
+conditional control structure
+ladder:
+       syntax
+           if(condition):        // write one time
+                   #logic on staatement
+            
+            elif(condition):     // can be repeated depends on program need
+                    #logic on statement
 
+            else:                // write one time
+                #logic on statement
+
+ 
 

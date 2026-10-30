@@ -196,3 +196,9 @@ for in loop
         stop -1
         step is default incremented by 1
 
+Break statement : break is used to terminate process when the given condition is satisfied
+
+Continue statement: Continue only skip the value when the given condition is satisfied but the remaining loop process is runnin as it 
+
+Exist : Exit is a function of sys module which terminates a program where ever it is return in the code 
+        It is used for debug a program.

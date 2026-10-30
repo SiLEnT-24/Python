@@ -179,6 +179,12 @@ Loop or Repetitive control structure : when we want to perform any task again an
                                                              # statement
                                                              step value/increament value
 
+Sum from 1/1+1/2+...........+/n
+for factorial of given no.
+print sum of given series 1/1!+1/2!+.......1/n!
+print series 1 3 5 7 ...........n
+print series 2 4 6 8 ..............n
+
 for in loop
   syntax
       1. for reference in collection
@@ -189,3 +195,4 @@ for in loop
         start default value is 0
         stop -1
         step is default incremented by 1
+

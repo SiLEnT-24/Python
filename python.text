@@ -202,3 +202,13 @@ Continue statement: Continue only skip the value when the given condition is sat
 
 Exist : Exit is a function of sys module which terminates a program where ever it is return in the code 
         It is used for debug a program.
+
+Pass statement :  if you don't want write any logic you skip it by pass or null statement
+
+Nested for in loop : a loop with in a loop is called nested for in loop
+                    syntax:
+                         #outer loop
+                         for reference in range(start, stop-1,step):
+                            #inner loop --> for columns
+                                for reference in range(start, stop-1, step):
+                                 #logic or statement

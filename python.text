@@ -212,3 +212,12 @@ Nested for in loop : a loop with in a loop is called nested for in loop
                             #inner loop --> for columns
                                 for reference in range(start, stop-1, step):
                                  #logic or statement
+
+diamond pattern
+1
+135
+1357
+
+***
+*$*
+***

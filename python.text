@@ -251,3 +251,17 @@ List Methods :
 
                             without
                                  listname.pop(index)
+
+            3. remove() : for remove an elements from list
+                         syntax
+                               listname.remove(value)
+
+            4. sort() : arrange list elements in ascending ordered
+                       syntax
+                               listname.sort()
+
+            5. reverse() : arrange list elements in reserve ordered
+                        syntax
+                             listname.reverse()
+
+            

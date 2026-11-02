@@ -263,5 +263,27 @@ List Methods :
             5. reverse() : arrange list elements in reserve ordered
                         syntax
                              listname.reverse()
-
             
+            6 insert() : this method insert new element at specified index position
+                         syntax 
+                                listname.insert(index,value)
+
+            7. count() : this function count duplicate element in a given vault.
+                        syntax
+                              return information = listname.cout(value)
+
+            8 clear() :  for clear an existing list data.after clear list structure will be exists.
+                        syntax
+                            listname.clear()
+            9. copy() : it will create a new list from the existing list data
+                        syntax
+                              varname = listname.copy()
+            
+            10. index() : return index of specified value
+                         syntax
+                               return index= listname.index(value)
+
+            11. extend() :  add element from another list
+                         syntax
+                              listname1.extend(listname2)
+                              

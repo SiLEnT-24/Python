@@ -221,3 +221,33 @@ diamond pattern
 ***
 *$*
 ***
+
+calculate different area in circle, square etc using while and ladder if
+
+List : list is a collection of same plus different datatype value 
+       list is capable to store multiple values in a single variable
+       It is mutable or changeable in nature
+       It is ordered in nature and default index start from 0
+       It allow to duplicate elements
+       list it dynamic in nature so no need to define size
+       list is also  constructor
+       syntax
+             reference_var_name = [value1, value2 ....]
+
+List Methods : 
+             1. append()
+                        this Method add elements in existing list at the list last position
+                        syntax listname.append(value)
+
+                        note list Sequence  follows the ds algorithm "stack".stack follows LIFO approach.
+
+                    stack 
+                         insert ---> at the end
+                         delete ---> at the end
+
+            2. pop() : this method remove the elements in the last position
+                      syntax with
+                              listname.pop()
+
+                            without
+                                 listname.pop(index)

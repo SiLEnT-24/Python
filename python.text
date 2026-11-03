@@ -303,3 +303,14 @@ packing interval : the process of assigning new value to a tuple is known as  pa
 
                    exp: reference=(value1,value2,....)
 
+unpacking : to extract the value of the tuple into a single variable is called unpacking
+            syntax
+                  (value1,value2,...)=reference_name
+
+            the no. of variable must match the number of values in the tuple, if not, you must use an asterik
+            to collect the remaining values as a list. 
+            syntax
+                  (value1,value2,*value3)=reference_name
+
+
+

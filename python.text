@@ -290,3 +290,12 @@ List Methods :
 Del keyword : Del is a reserve word or keyword foir removing any reference(or deallocate a an existing reference from memory parmanently)
              syntax
                    del reference_var_name
+
+Tuple : Tuple is a collection of same + different data type value 
+        Tuple is immutable or unchangeable in nature 
+        tuple is also a constructor 
+        tuple has same as list in terms of order, indexing, and allow duplicate element
+        syntax
+               ref_var_name = (value1, value2, value3.....)
+
+               

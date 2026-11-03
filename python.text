@@ -286,4 +286,7 @@ List Methods :
             11. extend() :  add element from another list
                          syntax
                               listname1.extend(listname2)
-                              
+
+Del keyword : Del is a reserve word or keyword foir removing any reference(or deallocate a an existing reference from memory parmanently)
+             syntax
+                   del reference_var_name

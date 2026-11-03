@@ -10,4 +10,7 @@ a.clear()
 print(a)
 
 a.append(10)
+a.append(20)
 print(a)
+
+print(a.index(20))

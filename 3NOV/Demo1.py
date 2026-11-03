@@ -11,3 +11,11 @@ for x in a:
 
 print("unique data")
 print(b)
+
+#remove duplicate data from list
+
+a = [10, 20, 30, 45, 64, 10, 20, 30]
+print(a)
+
+a = list(set(a))
+print(a)

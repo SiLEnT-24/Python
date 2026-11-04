@@ -331,6 +331,17 @@ functions of string:
                            capitalize(): capitalizes only the first character
                            title(): capitalizes the first letter of every word
                            swapcase(): Inverts uppercase to lower case and vice versa
-                           
+                           strip(): removes the left and right white spaces
+                                    
+                           replace(): replace old string with new string
+                                     syntax
+                                           var_reference=strname.replace(oldstring,newstring,count)
+
+                           split(): for the split string at specified position
+                                    syntax
+                                          return list =strname.split(position)
+                                          
+                           join(): 
+
 
 

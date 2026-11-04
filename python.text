@@ -323,5 +323,14 @@ string : string is a collection alphbets, numbers, and special character
            astring always define in double quotes "" 
            string belong to wrapper class <class:str>
            for multi line string we can you use triple quotes """" """" or single quote in 3 times 
-           
+
+functions of string:
+                    Methods:
+                           upper(): to convert any string to upper case 
+                           lower(): to convert any string to lower case
+                           capitalize(): capitalizes only the first character
+                           title(): capitalizes the first letter of every word
+                           swapcase(): Inverts uppercase to lower case and vice versa
+                           
+
 

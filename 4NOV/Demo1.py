@@ -4,7 +4,7 @@ print(s)
 print(type(s))
 print(s[0])
 
-for i in range s:
+for i in s:
     print(i)
 
 #for loop with range

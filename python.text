@@ -314,3 +314,14 @@ unpacking : to extract the value of the tuple into a single variable is called u
 
 
 
+string : string is a collection alphbets, numbers, and special character
+           string is ordered in nature it's default index start with 0
+           string is immutable in nature
+           string is like a arrray in python
+           python don't support char data type
+           single char value is also string in python
+           astring always define in double quotes "" 
+           string belong to wrapper class <class:str>
+           for multi line string we can you use triple quotes """" """" or single quote in 3 times 
+           
+

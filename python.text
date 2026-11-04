@@ -341,7 +341,10 @@ functions of string:
                                     syntax
                                           return list =strname.split(position)
                                           
-                           join(): 
+                           join(): join element of an iterable into a single string
+                                   separator.join(iterable)
+
+                           
 
 
 

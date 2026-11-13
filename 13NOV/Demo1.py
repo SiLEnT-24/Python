@@ -6,18 +6,26 @@ C=int(input("Enter chemistry marks: "))
 M=int(input("Enter maths marks: "))
 TOTAL = P + C + M
 percentage = TOTAL / 3
-
+grade = 0 
 if percentage >= 90 and percentage <= 100:
-    print("Grade A")
+    grade = "A"
 
 elif percentage >= 80 and percentage < 90:
-    print("Grade B")
+    grade = "B"
 
 elif percentage >= 70 and percentage < 80:
-    print("Grade C")
+    grade = "C"
 
 elif percentage >= 60 and percentage < 70:
-    print("Grade D")
+    grade = "D"
 
 else:
-    print("Grade F")
+    grade = "F"
+
+print(f"Student: {name}")
+print(f"Physics: {P}")
+print(f"Chemistry: {C}")
+print(f"Maths: {M}")
+print(f"Total Marks: {TOTAL}")
+print(f"Percentage: {percentage}")
+print(f"Grade: {grade}")

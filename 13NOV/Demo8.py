@@ -1,5 +1,6 @@
 #userdefine function
 
 def demo():
-    pass
+    print("demo function")
 demo()  #function calling
+

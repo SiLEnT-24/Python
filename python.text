@@ -351,3 +351,10 @@ find : returns the index of the first occurrence of a substring.
        syntax:
                string_name.find(substring)
 
+ String function
+
+ 1. isalpha(): to check the string contain alphabets or not
+ 2. isupper(): to check string is in uppercase format or not
+ 3. isnumeric(): to check string contain number or not
+ 4. islower(): to check string is in lowercase fromat or not
+ 5  isnum(): check alphabets+number value

@@ -30,7 +30,7 @@ while True:
             print("Insufficient balance")
         else:
             balance -= withdraw
-            print(f"Amount withdrawn: {balance}")
+            print(f"Amount withdrawn: {withdraw}")
 
     elif choice == 0:
         print("Thank you for using ATM ")

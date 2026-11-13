@@ -29,7 +29,7 @@ while True:
         elif withdraw > balance:
             print("Insufficient balance")
         else:
-            balance = balance
+            balance -= withdraw
             print(f"Amount withdrawn: {balance}")
 
     elif choice == 0:

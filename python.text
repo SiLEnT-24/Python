@@ -358,3 +358,24 @@ find : returns the index of the first occurrence of a substring.
  3. isnumeric(): to check string contain number or not
  4. islower(): to check string is in lowercase fromat or not
  5  isnum(): check alphabets+number value
+
+ functions in python 
+   function is a block of code or staatement used to design for performing specific task 
+   there are types of function
+
+   1. predefine, library or system define function
+      A function which is already available in python library is called library function. we can use this function as
+      per program need but cannot change it definition
+
+      EX: print(), type(), input() etc
+
+  2. userdefine function - A function which is design as our program need is called userdefine function
+   Types of userdefine function
+                1. No Returntype ,No argument list function
+                   syntax
+                        step I : function define
+                                 def funtionname():
+                                     #statement
+                        
+                        step II : function calling
+                                  funtionname()

@@ -379,3 +379,5 @@ find : returns the index of the first occurrence of a substring.
                         
                         step II : function calling
                                   funtionname()
+
+                 2. No typing with passing argument list function

@@ -384,4 +384,8 @@ find : returns the index of the first occurrence of a substring.
 
 Deepcopy: copy.deepcopy methods create a completely independent copy of the original, inculding all the nested element. changes made to deep_copied do not affect the original list a.
 
-shallow copy: A shallow copy creates a new object but retrains references contained within the original . it only copies the top- level without duplicating nested loop
+shallow copy: A shallow copy creates a new object but retrains references contained within the original . it only copies the top- level without duplicating nested loop.
+              changes made to a copy of an object do reflect in the original object
+              faster as compare to deepcopy
+              less memory overhead is required
+              

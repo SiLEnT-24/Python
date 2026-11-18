@@ -17,5 +17,6 @@ s=time.time()
 # x=time.strftime("%b") # month in short
 # x=time.strftime("%B") # month fullname
 x=time.strftime("%A %d-%m-%y %H:%I:%S %p")
-
 print(x)
+
+print(time.strftime("%j"))

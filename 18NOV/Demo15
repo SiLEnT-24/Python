@@ -1,0 +1,7 @@
+import sys
+# a = 9  // int- 28bytes
+# a=8.9 //float- 24bytes
+# a="x"  #str- 41+1char per each ..... bytes
+# a=None // 16bytes
+
+print(sys.getsizeof(a))

@@ -393,3 +393,6 @@ shallow copy: A shallow copy creates a new object but retrains references contai
 
 module in python : a module is simply a python file containing python code. Inside module file we can used in other python program .module file name extension is .py
 
+When we create module file and call it in program it will generate a folder __pycache__  inside this folder all the module file is store
+
+modulename.cpython.version.pyc

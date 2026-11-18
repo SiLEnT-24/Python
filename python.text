@@ -396,3 +396,9 @@ module in python : a module is simply a python file containing python code. Insi
 When we create module file and call it in program it will generate a folder __pycache__  inside this folder all the module file is store
 
 modulename.cpython.version.pyc
+
+Types of modules
+1.custome module/userdefine module : a module which is design as per our program needs called user defined module
+2.Predefine/buit-in/system defined module: a module which is already available in python library called predefined module.
+
+ex : copy, sys, math, keyword,os,date, time etc

@@ -438,3 +438,12 @@ File handling: by using file handling we can store data in form of file .this fi
 
               8. writelines(): this function is used to write list data in a file 
                    
+OS module: 
+         import OS
+         1. os.path.exists(f"ilename") : for check file exits or not on specific path
+
+         2. os.remove() : for remove a file 
+                         OS.remove("filename")
+
+         3. os.rmdir() : for remove folder
+                         OS.rmdir("filename")

@@ -402,3 +402,26 @@ Types of modules
 2.Predefine/buit-in/system defined module: a module which is already available in python library called predefined module.
 
 ex : copy, sys, math, keyword,os,date, time etc
+
+
+File handling: by using file handling we can store data in form of file .this file can be maintain at any location of your systema(drive)
+              1. open(): by this function we can create a new file or open an existing file
+
+              syntax:
+                   filepointer=open("path", mode)
+
+              file module
+                 w- for write
+                 r- for read 
+                 a- for append 
+
+              2. write(): for writting content in a file
+                 syntax
+                      filepointer.write(data)
+              3.read() : for read content
+              syntax
+                    return str=filepointer.read(length)
+
+              4.close(): for close an open file
+              syntax
+                filepointer.close()

@@ -425,3 +425,16 @@ File handling: by using file handling we can store data in form of file .this fi
               4.close(): for close an open file
               syntax
                 filepointer.close()
+
+              5. closed : it is an argument which is used to check whether the file is closed or not
+
+              6. readline(): this function read only single line of specific file
+                  syntax
+                        return str=filepointer.readline()
+
+              7. readlines(): this functions read all content of specified file.this function return a list data/item
+                syntax
+                     return str=filepointer.readlines()
+
+              8. writelines(): this function is used to write list data in a file 
+                   

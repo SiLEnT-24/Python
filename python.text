@@ -470,5 +470,10 @@ types classes
           2. NameError : this exception is occurs when reference/variable is undefined
           3. IndexError: this exception is occurs when index is out of range
           4. KeyError: this exception is occurs when index/key is not available in given collection
-          5. 
+          5. FileNotFoundError: when file does not exists in the specified path this is exception is occurr
+          6. ModuleNotFoundError: if the given module is not available in the python 
+          7. AttributeError: when call function that is not available in collection(like list, tuple,set,dictionary)
+          8. ValueError: when specified value is not available in given collection.exp. list1.remove(value)
+
+          Error occurs at compile time and Exception occurs at runtime.
     

@@ -447,3 +447,27 @@ OS module:
 
          3. os.rmdir() : for remove folder
                          OS.rmdir("filename")
+
+Exception handling : Error and exception can be lead to program failure or unexpected behavior 
+                     try: inside the try block we can write any statement or business logic.
+                     except: if the code contain any exception it will catch by except block
+                     else: if code not contain any exception than else block will be executed(optional block)
+                     finally: this block executes the code always(optional block)
+
+                     syntax
+                          try:
+                           #statement
+                           except(exceptionname):
+                                   #statement
+                            else: #optional block
+                                  #statement
+                            finally: #optional block
+                                  #statement
+
+                    
+types classes
+          1. ZeroDivisionError: this exception is occurs when any no. is divided by Zero 
+          2. NameError : this exception is occurs when reference/variable is undefined
+          3. IndexError: this exception is occurs when index is out of range
+          4. KeyError: this exception is occurs when index/key is not available in given collect
+    

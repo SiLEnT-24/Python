@@ -469,5 +469,6 @@ types classes
           1. ZeroDivisionError: this exception is occurs when any no. is divided by Zero 
           2. NameError : this exception is occurs when reference/variable is undefined
           3. IndexError: this exception is occurs when index is out of range
-          4. KeyError: this exception is occurs when index/key is not available in given collect
+          4. KeyError: this exception is occurs when index/key is not available in given collection
+          5. 
     

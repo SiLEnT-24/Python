@@ -1,0 +1,1 @@
+#Lambda function: It is a asynchronous function in python, that contain only expression. It is used when we need same fumction for a short time.

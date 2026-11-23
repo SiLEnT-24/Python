@@ -476,4 +476,4 @@ types classes
           8. ValueError: when specified value is not available in given collection.exp. list1.remove(value)
 
           Error occurs at compile time and Exception occurs at runtime.
-    
+

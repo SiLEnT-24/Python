@@ -1,4 +1,4 @@
-sqr={x:x**2 for x in range(1.6)}
+sqr={x:x**2 for x in range(1,6)}
 print(sqr)
 
 keys=["a","b","c"]
